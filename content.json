@@ -1,0 +1,37 @@
+{
+    "工具集A": [
+      {
+        "name": "工具A1",
+        "description": "简介",
+        "icon": "https://cdn.y.co/files/folder1_icon.png"
+      },
+      {
+        "name": "工具A2",
+        "description": "简介简介简介简介简介简介",
+        "icon": "https://cdn.y.co/files/folder1_icon.jpg"
+      },
+      {
+        "name": "工具A3",
+        "description": "简介简介简介简介简介简介简介",
+        "icon": "https://cdn.y.co/files/folder1_icon.png"
+      }
+    ],
+    "工具集B": [
+      {
+        "name": "工具B1",
+        "description": "简介",
+        "icon": "https://cdn.y.co/files/folder1_icon.png"
+      },
+      {
+        "name": "工具B2",
+        "description": "简介简介简介简介简介简介",
+        "icon": "https://cdn.y.co/files/folder1_icon.jpg"
+      },
+      {
+        "name": "工具B3",
+        "description": "简介简介简介简介简介简介简介",
+        "icon": "https://cdn.y.co/files/folder1_icon.png"
+      }
+    ]
+  }
+  
